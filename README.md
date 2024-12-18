@@ -1,4 +1,4 @@
-British Airways Analysis
+## British Airways Analysis
 
 This repository contains two tasks that focus on web scraping, data analysis, and predictive modeling for British Airways data.
 
