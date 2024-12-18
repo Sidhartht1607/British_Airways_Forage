@@ -19,20 +19,20 @@ Requirements
 Ensure you have the following installed:
 >Python 3.x
 >Jupyter Notebook
->Required libraries
-bs4 (BeautifulSoup for web scraping)
-collections
-imblearn (imbalanced-learn)
-matplotlib (visualization)
-nltk (natural language processing)
-pandas (data manipulation)
-re (regular expressions)
-requests (HTTP requests for web scraping)
-seaborn (visualization)
-sklearn (scikit-learn for machine learning)
-string
-tqdm (progress bars)
-warnings (suppressing warnings)
+>Required libraries:
+bs4 (BeautifulSoup for web scraping),
+collections,
+imblearn (imbalanced-learn),
+matplotlib (visualization),
+nltk (natural language processing),
+pandas (data manipulation),
+re (regular expressions),
+requests (HTTP requests for web scraping),
+seaborn (visualization),
+sklearn (scikit-learn for machine learning),
+string,
+tqdm (progress bars),
+warnings (suppressing warnings),
 wordcloud (word cloud visualization)
 
 License
